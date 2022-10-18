@@ -8,7 +8,7 @@
 ## 👥 팀원 소개
 #### `Backend`
 <a href="https://github.com/hm5938" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=강정구 &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/Song-Minjin" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=김기연 &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/Song-Minjin" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=진지연 &color=08CE5D&style=for-the-badge&>"/></a>
 <a href="https://github.com/kky7" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=송민진 &color=08CE5D&style=for-the-badge&>"/></a>
 
 #### `Frontend`
